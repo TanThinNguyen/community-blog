@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Community Blog</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <plurals name="num_of_views">
+        <item quantity="one">%d view</item>
+        <item quantity="other">%d views</item>
+    </plurals>
+
+    <string name="demo_paragraph">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</string>
+
+</resources>

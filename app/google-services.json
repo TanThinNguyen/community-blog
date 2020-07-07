@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "166889903957",
+    "firebase_url": "https://communityblog-94d45.firebaseio.com",
+    "project_id": "communityblog-94d45",
+    "storage_bucket": "communityblog-94d45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166889903957:android:0678ec5cfea8a610d181dc",
+        "android_client_info": {
+          "package_name": "com.tanthin.communityblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166889903957-7il8ffp29kuv2v4crsqbc74v5m5cb06r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tanthin.communityblog",
+            "certificate_hash": "57f1622cdb8f64b6238b7720435e514473553ab5"
+          }
+        },
+        {
+          "client_id": "166889903957-v5aqsfjlankub11n1trft3r7adm98ii4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ogCzKjPY-YCkezwkpoYpGw346WnHBP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166889903957-v5aqsfjlankub11n1trft3r7adm98ii4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
